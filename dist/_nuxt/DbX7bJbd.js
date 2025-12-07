@@ -1,1 +1,0 @@
-import{R as c,b as n,ab as s,a as l,O as p,M as m,ac as u}from"./vdZpTod2.js";const i={base:""},_={__name:"ProseEm",props:{class:{type:String,required:!1}},setup(e){const a=e,t=c(),o=n(()=>s({extend:s(i),...t.ui?.prose?.em||{}}));return(r,f)=>(p(),l("em",{class:u(o.value({class:a.class}))},[m(r.$slots,"default")],2))}};export{_ as default};

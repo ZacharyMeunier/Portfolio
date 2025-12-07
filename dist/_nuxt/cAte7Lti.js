@@ -1,1 +1,0 @@
-import{_ as e}from"./DlAUqK2U.js";import{a as _,O as n}from"./vdZpTod2.js";const c={},o={class:"linebreak"};function t(r,s){return n(),_("div",o)}const m=Object.assign(e(c,[["render",t]]),{__name:"Divider"});export{m as _};
