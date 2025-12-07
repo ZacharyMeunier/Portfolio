@@ -1,0 +1,1 @@
+import{R as l,b as n,ab as s,a as r,O as p,M as u,ac as d}from"./vdZpTod2.js";const i={base:""},b={__name:"ProseTbody",props:{class:{type:null,required:!1}},setup(e){const a=e,o=l(),t=n(()=>s({extend:s(i),...o.ui?.prose?.tbody||{}}));return(c,m)=>(p(),r("tbody",{class:d(t.value({class:a.class}))},[u(c.$slots,"default")],2))}};export{b as default};

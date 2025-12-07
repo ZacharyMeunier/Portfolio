@@ -1,0 +1,1 @@
+import{R as n,b as p,ab as s,a as r,O as c,M as u,ac as i}from"./vdZpTod2.js";const m={base:"my-5 leading-7 text-pretty"},_={__name:"ProseP",props:{class:{type:null,required:!1}},setup(e){const a=e,t=n(),o=p(()=>s({extend:s(m),...t.ui?.prose?.p||{}}));return(l,d)=>(c(),r("p",{class:i(o.value({class:a.class}))},[u(l.$slots,"default")],2))}};export{_ as default};
